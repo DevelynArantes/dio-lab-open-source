@@ -11,4 +11,5 @@ elif not maior_de_idade and not autorizacao:
     print("Entrada negada. Volte com autorização!")
 
 elif not maior_de_idade and autorizacao:
+
     print("Entrada permitida com autorização dos pais.")
